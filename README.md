@@ -9,7 +9,11 @@ open??
 import importlib
 importlib.reload(some_module)
 ```
-
+- Change the Theme in Jupyter Notebook? [stackoverflow](https://stackoverflow.com/questions/46510192/change-the-theme-in-jupyter-notebook)
+```bash
+pip install jupyterthemes #
+jt -l
+```
 ## Colab
 - Animation in Jupyter Notebooks [colab](https://colab.research.google.com/github/jckantor/CBE30338/blob/master/docs/A.03-Animation-in-Jupyter-Notebooks.ipynb#scrollTo=8wXH1S_h2qkq)
 - Google Colab features you may have missed [youtube](https://youtu.be/rNgswRZ2C1Y)
