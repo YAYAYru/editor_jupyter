@@ -17,3 +17,5 @@ jt -l
 ## Colab
 - Animation in Jupyter Notebooks [colab](https://colab.research.google.com/github/jckantor/CBE30338/blob/master/docs/A.03-Animation-in-Jupyter-Notebooks.ipynb#scrollTo=8wXH1S_h2qkq)
 - Google Colab features you may have missed [youtube](https://youtu.be/rNgswRZ2C1Y)
+## JupyterLab
+- STOP Using Jupyter Notebook! Here's the Better Tool [YouTube](https://youtu.be/zai2pLUD9FA)
