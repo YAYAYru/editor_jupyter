@@ -1,5 +1,11 @@
 # editor_jupyter
 ## Jupyter notebook
+- how to import own modules in Jupyter? [StackoverFlow](https://stackoverflow.com/questions/34976803/sys-path-different-in-jupyter-and-python-how-to-import-own-modules-in-jupyter)
+```python
+import sys
+sys.path.append("../") # go to parent dir
+from customFunctions import *
+```
 - See a function [youtube](https://www.youtube.com/watch?v=p1mSVgmSOAQ)
 ```python
 open??
