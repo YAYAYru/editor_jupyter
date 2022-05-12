@@ -17,7 +17,7 @@ importlib.reload(some_module)
 ```
 - autoreload¶ [ipython.readthedocs.io](https://ipython.readthedocs.io/en/stable/config/extensions/autoreload.html)
 ```python
-%load_ext autoreload
+%autoreload 2
 ```
 - Change the Theme in Jupyter Notebook? [stackoverflow](https://stackoverflow.com/questions/46510192/change-the-theme-in-jupyter-notebook)
 ```bash
